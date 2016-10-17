@@ -2,7 +2,9 @@
 
 ## merge
 
-### virgole
+##### virgole
+
+Concatenare parametri divisi da **virgole** nelle singole regole
 
 ```less
 .mixin() {
@@ -14,7 +16,9 @@
 }
 ```
 
-### spazi
+##### spazi
+
+Concatenare parametri divisi da **spazi** nelle singole regole 
 
 ```less
 .mixin() {

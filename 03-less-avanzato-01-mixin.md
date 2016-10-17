@@ -2,7 +2,7 @@
 
 ## mixin
 
-### pattern matching mixins
+##### pattern matching mixins
 
 ```less
 .mixin(dark; @color) {
@@ -20,7 +20,7 @@
 }
 ```
 
-### mixin condizionali
+##### mixin condizionali
 
 ```less
 .mixin (@a) when (lightness(@a) >= 50%) {
@@ -49,6 +49,8 @@
 
 ##### variabili condivise
 
+Variabili utilizzabili se utilizzati in concomitanza dei loro mixin parent
+
 ```less
 .mixin() {
   @width:  100%;
@@ -63,6 +65,8 @@
 ```
 
 ##### mixin condivisi
+
+Mixin utilizzabili se utilizzati in concomitanza dei loro mixin parent
 
 ```less
 .unlock(@value) { // outer mixin
@@ -80,6 +84,8 @@
 
 ## rulesets
 
+Utile per passare un set di regole come parametro di un mixin
+
 ```less
 .desktop-and-old-ie(@rules) {
   @media screen and (min-width: 1200px) {
@@ -92,7 +98,6 @@
 
 header {
   background-color: blue;
-
   .desktop-and-old-ie({
     background-color: red;
   });

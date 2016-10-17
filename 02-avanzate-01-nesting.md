@@ -1,8 +1,8 @@
-# less avanzato
+# avanzate
 
 ## nesting
 
-#### combinator
+##### combinator
 
 ```less
 p, a, ul {
@@ -13,7 +13,7 @@ p, a, ul {
 }
 ```
 
-#### order `less`
+##### order
 
 ```less
 .header {

@@ -20,7 +20,7 @@
 @import 'widget-01', 'widget-02';
 ```
 
-#### nested imports
+##### nested imports
 
 ```scss
 // file-to-import.scss

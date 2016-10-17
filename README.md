@@ -27,17 +27,22 @@ Utilizzerò principalmente alcuni tool online:
 Di seguito tutte le lezioni che partiranno dalle basi fino ad arrivare agli approcci più avanzati.
 
 #### Basi
-- [Variabili](basi-01-variabili.md)
-- [Import](basi-02-import.md)
-- [Nesting](basi-03-nesting.md)
-- [Mixin](basi-04-mixin.md)
-- [Mixin parametrici](basi-05-mixin-parametrici.md)
+- [Variabili](01-basi-01-variabili.md)
+- [Import](01-basi-02-import.md)
+- [Nesting](01-basi-03-nesting.md)
+- [Mixin](01-basi-04-mixin.md)
+- [Mixin parametrici](01-basi-05-mixin-parametrici.md)
+
+#### Avanzate
+- [Nesting](02-avanzate-01-nesting.md)
+- [Variable interpolation](02-avanzate-01-variable-interpolation.md)
 
 #### LESS avanzato
 
-- [Mixins](less-avanzato-01-mixin.md)
-- [Loops](less-avanzato-02-loops.md)
-- [Merge](less-avanzato-02-loops.md)
+- [Mixins](03-less-avanzato-01-mixin.md)
+- [Loops](03-less-avanzato-02-loops.md)
+- [Merge](03-less-avanzato-03-merge.md)
+- [Functions](03-less-avanzato-04-functions.md)
 
 [sass-web]: http://sass-lang.com/
 [less-web]: http://lesscss.org/features/

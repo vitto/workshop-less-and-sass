@@ -2,7 +2,7 @@
 
 ## loops
 
-### generate a column set
+##### generate a column set
 
 ```less
 .generate-columns(@n, @i: 1) when (@i =< @n) {

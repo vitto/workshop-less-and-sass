@@ -35,14 +35,15 @@ Di seguito tutte le lezioni che partiranno dalle basi fino ad arrivare agli appr
 
 #### Avanzate
 - [Nesting](02-avanzate-01-nesting.md)
-- [Variable interpolation](02-avanzate-01-variable-interpolation.md)
+- [Variable interpolation](02-avanzate-02-variable-interpolation.md)
+- [Mixin con argomenti dinamici](02-avanzate-03-mixin-dynamic-arguments.md)
+- [Loops](02-avanzate-04-loops.md)
 
 #### LESS avanzato
 
-- [Mixins](03-less-avanzato-01-mixin.md)
-- [Loops](03-less-avanzato-02-loops.md)
+- [Mixin](03-less-avanzato-01-mixin.md)
+- [Funcitons](03-less-avanzato-02-functions.md)
 - [Merge](03-less-avanzato-03-merge.md)
-- [Functions](03-less-avanzato-04-functions.md)
 
 [sass-web]: http://sass-lang.com/
 [less-web]: http://lesscss.org/features/

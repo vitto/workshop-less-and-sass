@@ -1,4 +1,4 @@
-# Mixin
+# mixin
 
 ## less
 

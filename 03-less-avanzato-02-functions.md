@@ -1,6 +1,6 @@
 # less avanzato
 
-## Functions
+## functions
 
 ##### image properties `node only`
 

@@ -31,7 +31,7 @@ Di seguito tutte le lezioni che partiranno dalle basi fino ad arrivare agli appr
 - [Import](01-basi-02-import.md)
 - [Nesting](01-basi-03-nesting.md)
 - [Mixin](01-basi-04-mixin.md)
-- [Mixin parametrici](01-basi-05-mixin-parametrici.md)
+- [Mixin parametrici](01-basi-05-mixin-arguments.md)
 
 #### Avanzate
 - [Nesting](02-avanzate-01-nesting.md)

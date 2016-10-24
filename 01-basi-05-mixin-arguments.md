@@ -1,4 +1,4 @@
-# Mixin parametrici
+# mixin arguments
 
 ## less
 
